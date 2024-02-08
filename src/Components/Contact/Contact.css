@@ -1,0 +1,11 @@
+.form {
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding-top: 150px;
+}
+
+.title h2{
+    font-size: 50px;
+    font-weight: 800;
+}

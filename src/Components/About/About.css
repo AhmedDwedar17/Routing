@@ -1,0 +1,15 @@
+.about {
+    display: flex;
+    height: 100vh;
+    background-color: #1bbc9d;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.about h2 {
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: 800;
+}

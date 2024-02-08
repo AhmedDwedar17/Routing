@@ -1,0 +1,13 @@
+.portfolio {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.portfolio h2 {
+    margin-bottom: 30px;
+    font-size: 50px;
+    font-weight: 800;
+}
